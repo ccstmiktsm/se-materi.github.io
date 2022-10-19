@@ -7,8 +7,8 @@ Dalam Divisi Software Engineer kita akan Mengimplementasikan hasil desain dari d
 ### Di Divisi Software Engineer Kita Belajar Apa Aja Nih ?
 Untuk Divisi Software Engineer kita akan belajar dimulai dari :
 
-1. :books: [**Pengenalan Text Editor**](text-editor/pengenalan-text-editor.md)
-2. :orange_book: [**HTML**](text-editor/pengenalan-html.md)
+1. [**Pengenalan Text Editor**](text-editor/pengenalan-text-editor.md)
+2. [**HTML**](text-editor/pengenalan-html.md)
 3. **Git**
 4. **Github**
 5. **CSS**
