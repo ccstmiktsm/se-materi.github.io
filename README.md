@@ -8,7 +8,7 @@ Dalam Divisi Software Engineer kita akan Mengimplementasikan hasil desain dari d
 Untuk Divisi Software Engineer kita akan belajar dimulai dari :
 
 1. [**Pengenalan Text Editor**](text-editor/pengenalan-text-editor.md)
-2. [**HTML**](text-editor/pengenalan-html.md)
+2. [**HTML**](html/pengenalan-html.md)
 3. **Git**
 4. **Github**
 5. **CSS**
