@@ -11,8 +11,8 @@ Untuk Divisi Software Engineer kita akan belajar dimulai dari :
 2. [**HTML**](html/pengenalan-html.md)
 3. **Git**
 4. **Github**
-5. **CSS**
-6. **Java Script**
+5. [**CSS**](css/pengenalan-css.md)
+6. [**Javascript**](js/pengenalan-js.md)
 6. **Bootstrap 5**
 
 
