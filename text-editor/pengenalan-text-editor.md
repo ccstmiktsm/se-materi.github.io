@@ -13,3 +13,20 @@ Setelah didownload, jalankan installer (VSCodeUserSetup-{version}.exe).
 Secara default, VS Code diinstal di pada path C:\Users\{Username}\AppData\Local\Programs\Microsoft VS Code.
 
 ### What is extension in vscode?
+#### 1. Prettier - Code Formatter
+![](/assets/img/texteditor-img-1.png)
+
+Prettier adalah formatter kode yang populer yang digunakan untuk secara otomatis memformat kode Anda sesuai dengan aturan yang ditentukan. Formatter ini mendukung berbagai bahasa dan dapat diintegrasikan dengan editor kode paling populer.
+
+#### 2. Live Server
+![](/assets/img/texteditor-img-2.png)
+Digunakan untuk menjalankan server web lokal.
+
+#### 3. Auto Rename Tag
+![](/assets/img/texteditor-img-3.png)
+Auto Rename Tag digunakan untuk menyinkronkan tag HTML atau XML saat Anda mengubah nama salah satu dari mereka. Ini berguna ketika Anda sedang mengedit kode HTML atau XML dan ingin mengubah nama tag, sehingga Anda tidak perlu mengedit tag yang sama secara manual di beberapa tempat dalam kode Anda.
+
+### 4. Material Icon Theme
+![](/assets/img/texteditor-img-4.png)
+Material Icon Theme digunakan untuk mengubah tampilan ikon dalam sidebar pada Visual Studio Code. Ini memungkinkan Anda untuk mengganti ikon default dengan ikon yang sesuai dengan Material Design, yang merupakan desain visual yang dikembangkan oleh Google.
+
