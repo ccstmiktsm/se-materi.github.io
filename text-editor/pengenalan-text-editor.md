@@ -1,5 +1,5 @@
 # Pengenalan Text Editor
-
+Text editor adalah aplikasi perangkat lunak yang digunakan untuk mengedit dan membuat dokumen teks. Text editor dapat digunakan untuk mengedit file teks biasa seperti file .txt, .html, .css, .js, dll. Text editor juga dapat digunakan untuk menulis kode program. Beberapa contoh text editor populer adalah Notepad, Sublime Text, Atom, Visual Studio Code, dll.
 ## Visual Studio Code
 Visual Studio Code (VS Code) adalah sebuah editor kode sumber yang dikembangkan oleh Microsoft untuk sistem operasi Windows, Linux, dan macOS. VS Code menyediakan fitur-fitur seperti debugging, integrasi dengan Git, dan penyelesaian kode IntelliSense. VS Code juga mendukung berbagai bahasa pemrograman dan memiliki ekosistem yang besar dari ekstensi yang menambahkan fungsi tambahan pada editor. Banyak developer menggunakan VS Code sebagai editor kode utama mereka karena fleksibilitas, performa, dan komunitas yang besar.
 
